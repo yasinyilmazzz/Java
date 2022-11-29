@@ -1,0 +1,4 @@
+Hello World!
+Learn Java, earn money.
+Java is easy.
+I like to move it, move it!
